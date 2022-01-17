@@ -1,0 +1,3 @@
+name: PrisonPlugin
+version: '${version}'
+main: me.prison.prisonplugin.Prison
